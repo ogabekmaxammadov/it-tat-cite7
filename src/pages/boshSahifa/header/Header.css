@@ -207,7 +207,7 @@ header > .flex {
 
 /* ?icon animation */
 
-.ant-modal-content {
+:where(.ant-modal).ant-modal .ant-modal-content {
 	background-color: transparent !important;
 	box-shadow: none !important;
 }

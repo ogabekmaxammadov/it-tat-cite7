@@ -127,6 +127,11 @@ const Header = () => {
 				onCancel={() => setIsModalOpen(false)}
 				footer={null}
 				getContainer={false}
+				modalRender={modal => (
+					<div style={{ backgroundColor: 'transparent', boxShadow: 'none' }}>
+						{modal}
+					</div>
+				)}
 			>
 				<div className='cont_a_i'>
 					<div className='icon_top'>

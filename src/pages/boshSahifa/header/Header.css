@@ -207,7 +207,7 @@ header > .flex {
 
 /* ?icon animation */
 .m {
-	z-index: 2;
+	z-index: -20;
 }
 .cont_a_i {
 	border: 1px solid white;

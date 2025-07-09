@@ -198,7 +198,7 @@ header > .flex {
 
 :where(.css-dev-only-do-not-override-1v613y0).ant-modal .ant-modal-header {
 	border-radius: 15px;
-	background-color: var(--minus-blue-color);
+	background-color: var(--minus-blue-color) !important;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -206,9 +206,12 @@ header > .flex {
 }
 
 /* ?icon animation */
-.m {
-	z-index: -20;
+
+.ant-modal-content {
+	background-color: transparent !important;
+	box-shadow: none !important;
 }
+
 .cont_a_i {
 	border: 1px solid white;
 	display: inline-block;

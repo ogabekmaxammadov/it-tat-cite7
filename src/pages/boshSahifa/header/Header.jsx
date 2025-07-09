@@ -1,7 +1,8 @@
-import { Button as MuiButton } from '@mui/material' // MUI Button
+import { Button as MuiButton } from '@mui/material'; // MUI Button
 import { useState } from 'react'
 import logo_header from '../../../assets/hed_logo.svg'
 
+import '../../../App.css'
 import './Header.css'
 
 import { NavLink, useNavigate } from 'react-router-dom'

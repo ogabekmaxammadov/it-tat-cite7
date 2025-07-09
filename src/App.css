@@ -174,7 +174,7 @@ a {
 	box-shadow: none;
 }
 :where(.css-dev-only-do-not-override-1d4w9r2).ant-modal .ant-modal-header {
-	background: none;
+	background: #3d51e3 !important;
 }
 .anticon svg {
 	display: none;

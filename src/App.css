@@ -290,3 +290,12 @@ p {
 .bor-red {
 	border: 1px solid orange;
 }
+
+:where(.css-os2fvf).ant-modal .ant-modal-header {
+	border-radius: 15px;
+	background-color: #3d51e3 !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: start;
+}

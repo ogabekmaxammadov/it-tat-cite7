@@ -300,7 +300,7 @@ p {
 	box-shadow: none;
 }
 :where(.css-os2fvf).ant-modal .ant-modal-header {
-	background-color: var(--minus-blue-color);
+	background-color: var(--minus-blue-color) !important;
 	box-shadow: none;
 }
 :where(.css-os2fvf).ant-modal .ant-modal-content {

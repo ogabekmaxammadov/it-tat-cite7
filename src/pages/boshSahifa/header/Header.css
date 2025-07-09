@@ -198,7 +198,7 @@ header > .flex {
 
 :where(.css-dev-only-do-not-override-1v613y0).ant-modal .ant-modal-header {
 	border-radius: 15px;
-	background-color: var(--minus-blue-color) !important;
+	background-color: #3d51e3 !important;
 	display: flex;
 	align-items: center;
 	justify-content: center;

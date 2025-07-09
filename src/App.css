@@ -291,7 +291,7 @@ p {
 	border: 1px solid orange;
 }
 
-:where(.css-os2fvf).ant-modal .ant-modal-content {
+/* :where(.css-os2fvf).ant-modal .ant-modal-content {
 	background-color: none;
 	box-shadow: none;
 }
@@ -306,4 +306,4 @@ p {
 :where(.css-os2fvf).ant-modal .ant-modal-content {
 	background-color: none;
 	box-shadow: none;
-}
+} */

@@ -290,20 +290,3 @@ p {
 .bor-red {
 	border: 1px solid orange;
 }
-
-/* :where(.css-os2fvf).ant-modal .ant-modal-content {
-	background-color: none;
-	box-shadow: none;
-}
-:where(.css-os2fvf).ant-modal .ant-modal-content {
-	background-color: none;
-	box-shadow: none;
-}
-:where(.css-os2fvf).ant-modal .ant-modal-header {
-	background-color: var(--minus-blue-color) !important;
-	box-shadow: none;
-}
-:where(.css-os2fvf).ant-modal .ant-modal-content {
-	background-color: none;
-	box-shadow: none;
-} */

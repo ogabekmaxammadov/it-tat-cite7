@@ -203,6 +203,7 @@ header > .flex {
 	align-items: center;
 	justify-content: center;
 	text-align: start;
+	font-size: 30px;
 }
 
 /* ?icon animation */
@@ -452,8 +453,3 @@ header > .flex {
   position: absolute;
   z-index: 999;
 } */
-
-:where(.css-dev-only-do-not-override-os2fvf).ant-modal .ant-modal-header {
-	background-color: var(--minus-blue-color);
-	font-size: 30px;
-}
